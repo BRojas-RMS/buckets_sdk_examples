@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hfhf8Xk7uKVUu1ZqEroe0UvaStqeH3PeHUXpyrKPsMf4ueeYqyNPWnqviPPpDh+b+AYrEx9ZHF5pPIRDOFTnTA==",
+  "success": true,
+  "projectFilePath": "C:\\source\\buckets_sdk_examples\\AWSBucketsTestsGUI\\AWSBucketsTestsGUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Brojas\\.nuget\\packages\\awssdk.core\\3.7.103.8\\awssdk.core.3.7.103.8.nupkg.sha512",
+    "C:\\Users\\Brojas\\.nuget\\packages\\awssdk.s3\\3.7.101.46\\awssdk.s3.3.7.101.46.nupkg.sha512"
+  ],
+  "logs": []
+}
