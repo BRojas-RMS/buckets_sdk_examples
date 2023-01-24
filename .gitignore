@@ -1,0 +1,7 @@
+.vs/
+.AWSBucketsTestsGUI/bin
+.AWSBucketsTestsGUI/obj
+.AWSBucketsTests_DAL/bin
+.AWSBucketsTests_DAL/obj
+.Miscellaneous/bin
+.Miscellaneous/obj
